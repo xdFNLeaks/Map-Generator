@@ -7,6 +7,9 @@
 ```
 git clone https://github.com/xdFNLeaks/Map-Generator.git
 ```
+- **Run `install.bat`**
+
+
 - Open the folder you extracted it to & double click/run `run.bat`
 **OR, open your terminal & enter:**
 ```
